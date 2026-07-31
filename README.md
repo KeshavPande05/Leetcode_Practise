@@ -17,5 +17,8 @@ This repository contains my solutions to LeetCode problems. All accepted solutio
 ### Array
 - [0001 - Two Sum](https://github.com/KeshavPande05/Leetcode_Practise/tree/master/0001-two-sum)
 
+### Array 
+- .[0004 - Median](https://github.com/KeshavPande05/Leetcode_Practise/blob/main/0004-median-of-two-sorted-arrays/README.md)
+- 
 <!---LeetCode Topics Start-->
 <!---LeetCode Topics End-->
