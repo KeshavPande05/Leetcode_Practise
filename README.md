@@ -25,5 +25,6 @@ This repository contains my solutions to LeetCode problems. All accepted solutio
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/KeshavPande05/Leetcode_Practise/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/KeshavPande05/Leetcode_Practise/tree/master/0176-second-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/KeshavPande05/Leetcode_Practise/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
